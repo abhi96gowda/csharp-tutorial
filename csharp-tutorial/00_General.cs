@@ -4,7 +4,7 @@ namespace csharp_tutorial
 {
     public class General
     {
-        public class Hello
+        public class Hello world
         {
             // This can be only set in constructor
             // Use this as often as possible, as it is generally not recommended to use mutable class variables
